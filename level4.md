@@ -835,7 +835,6 @@ Sentry를 처음 도입했을 때의 막막함에서 시작해서, 단계별로 
 
 ## 참고 자료
 
-- [Sentry 공식 문서](https://docs.sentry.io/)
 - [Sentry React SDK](https://docs.sentry.io/platforms/javascript/guides/react/)
-- [소스맵 업로드 가이드](https://docs.sentry.io/platforms/javascript/sourcemaps/)
+- [Sentry 소스맵 업로드 가이드](https://docs.sentry.io/platforms/javascript/sourcemaps/)
 - [Session Replay 문서](https://docs.sentry.io/product/session-replay/)
